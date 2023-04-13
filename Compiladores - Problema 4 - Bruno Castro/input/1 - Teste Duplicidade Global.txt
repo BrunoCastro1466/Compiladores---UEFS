@@ -1,0 +1,28 @@
+procedure start{
+
+const{
+	int maximo1 = 10, maximo2 = 20;
+
+	real divisor = 20.5, multiplicador = 1.7;
+
+	boolean maximo2 = true;
+	
+	int divisor = 2;
+}
+
+
+var{
+	int valor, aux;
+
+	string mensagem;
+
+	boolean verificador1, verificador2; 
+
+	real mensagem;
+
+	int valor;
+}
+
+
+
+}

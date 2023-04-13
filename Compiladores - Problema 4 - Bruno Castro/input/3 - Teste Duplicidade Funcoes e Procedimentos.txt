@@ -1,0 +1,28 @@
+procedure start{
+
+
+
+function int testando(){
+
+var{
+	int valor;
+}
+
+return valor;
+}
+
+procedure testandoProcedimento(){
+
+
+}
+
+function boolean testando(){
+
+return true;
+}
+
+procedure testandoProcedimento(){
+
+}
+
+}

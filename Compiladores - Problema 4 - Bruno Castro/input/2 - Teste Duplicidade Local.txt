@@ -1,0 +1,18 @@
+procedure start{
+
+procedure testeLocal(){
+
+var {
+	int numero1, numero2;
+
+	string mensagem;
+
+	real numero1, numero3, numero4;
+
+	boolean mensagem;
+}
+
+}
+
+
+}

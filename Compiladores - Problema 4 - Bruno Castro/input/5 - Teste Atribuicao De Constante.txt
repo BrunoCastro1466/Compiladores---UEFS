@@ -1,0 +1,24 @@
+procedure start{
+
+const{
+	int constante1= 10;
+	real constante2 = 86.0;	
+}
+
+function int funcaoTeste(){
+
+var{
+	int variavel1;
+}
+
+	variavel1 = 10;
+
+	constante1 = 86;
+
+	constante2 = 99.5;
+
+
+return variavel1;
+}
+
+}

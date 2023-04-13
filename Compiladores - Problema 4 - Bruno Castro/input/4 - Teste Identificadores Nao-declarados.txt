@@ -1,0 +1,32 @@
+procedure start{
+
+var{
+	int teste1, teste2;
+
+	real numero1, numero2;
+}
+
+const{
+
+	int inteiro1 = 1;
+
+	real fracionado1 = 1.5;
+}
+
+procedure procedimento(){
+
+var{
+	int variavelTeste;
+
+	real variavelTeste2;
+}
+
+	variavelTeste = teste1;
+
+	variavelTeste = teste10;
+
+	variavelTeste2 = fracionado10;
+
+}
+
+}

@@ -1,0 +1,34 @@
+procedure start{
+var{string cadeia, cadeia2, cadeia3; int numero1, numero2, numero3;}
+
+const{int constante = 10, constante2 = 20;}
+
+
+function int identificador1 (boolean identificador2, real identificador3) {
+
+var{string naoentendi, naoentendi2, naoentendi;}
+return true;
+}
+
+procedure procedimento(int argumento1){
+
+var{real atributo;}
+
+}
+
+function int identificador1 (){
+
+var{int algarismo;}
+
+algarismo = IdentificadorNaoDeclarado;
+
+return true;
+}
+
+constante = 9000;
+
+procedure procedimento(){
+
+var{real atributo;}
+
+}
